@@ -1,2 +1,2 @@
 # AbrElearningSite
-Its totally online free education for bangladeshi studennt.
+Its totally online free education for bangladeshi student.
